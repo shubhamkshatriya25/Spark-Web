@@ -1,0 +1,59 @@
+#myCarousel-indicators li {
+  border-radius: 50%;
+}
+
+.carousel-item {
+  padding: 10px 20px;
+  width: 100%;
+}
+
+.progress {
+  margin: 25px;
+}
+
+.dwnld_info_bttn_web:hover {
+  box-shadow: 10px 15px 20px;
+}
+
+.spark_video {
+  box-shadow: 10px 15px 20px;
+}
+
+.spark_description {
+  padding-top: 30px;
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+.spark_description h1 {
+  font-family: "MontserratSemiBold", sans-serif;
+  font-weight: bold;
+  color: #188ba8;
+}
+
+.s_leaderbord {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.img_leadeerboard {
+  width: 100%;
+  border-radius: 20px;
+}
+
+.dis_learboard {
+  vertical-align: middle;
+}
+
+.carousel-caption,
+.footer_spark {
+  font-family: "Montserrat", sans-serif;
+  line-height: 1.75;
+  font-size: 1.15em;
+}
+
+.content {
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  color: #065164;
+}

@@ -1,0 +1,16 @@
+.spark_schedule {
+    text-align: center;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.spark_schedule h1 {
+    font-family: 'MontserratSemiBold', sans-serif;
+    font-weight: bold;
+    color: #188ba8;
+}
+
+.col-sm-6, .col-sm-12 {
+    margin-bottom: 20px;
+}

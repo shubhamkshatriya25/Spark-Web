@@ -1,0 +1,47 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.nav-item {
+  font-size: large;
+}
+
+.navbar_spark, .navbar {
+  font-family: 'Montserrat', 'Helvetica Neue', 'Helvetica', sans-serif;
+  font-size: 1em;
+  background: transparent;
+  top: 0;
+  background-color: #188ba8;
+  color: #e1f0f7;
+}
+
+.nav_name {
+  float: right;
+  font-size: larger;
+  margin: auto auto auto 0;
+  padding-left: 10px;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.spark_marquee {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  color: #065164;
+  border-top-style: solid;
+}
+
+.footer_spark {
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.75;
+  font-size: 1.15em;
+  left: 0;
+  bottom: 0;
+  background-color: #188ba8;
+  color: white;
+  width: 100%;
+}

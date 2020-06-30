@@ -1,0 +1,22 @@
+.phone_tablet_web {
+  width: 100%;
+}
+
+.dis_download {
+  padding-top: 100px;
+  text-align: center;
+}
+
+.s-d-c {
+  margin-bottom: 50px;
+  font-family: 'Montserrat',
+  sans-serif;
+  font-size: 2em;
+  color: #188ba8;
+}
+
+.d_img {
+  background-color: coral;
+  height: 575px;
+  width: 100%;
+}
